@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .hero-section{
     background-color:  #264653;
     
@@ -10,6 +14,13 @@
     border: none;
     border-radius: 10px;
 }
-img {
+.modal-body, .modal-title{
+    text-align: center;
+    color: Red;
+}
+.feature-img {
     filter: grayscale(100%);
   }
+.dual-header{
+    color:#E76F51; ;
+}

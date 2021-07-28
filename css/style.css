@@ -1,0 +1,15 @@
+.hero-section{
+    background-color:  #264653;
+    
+}
+.btn-header{
+    color: white;
+    background-color:  #E76F51;
+    Width : 168px;
+    Height : 44px;
+    border: none;
+    border-radius: 10px;
+}
+img {
+    filter: grayscale(100%);
+  }

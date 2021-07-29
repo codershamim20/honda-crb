@@ -18,9 +18,39 @@ body{
     text-align: center;
     color: Red;
 }
+.featured-paragraph{
+    color:#E76F51; 
+    text-decoration: underline;
+    font-weight: 700;
+}
 .feature-img {
     filter: grayscale(100%);
   }
+
 .dual-header{
-    color:#E76F51; ;
+    color:#E76F51; 
+}
+.rating{
+    color: #E77C40;
+}
+.client-name{
+     color: #23A6F0;
+     font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+}
+.client-profession{
+    color: #252B42;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+}
+.footer-bg{
+    background: #0B0D17;
+    color: #D9DBE1 ;
+}
+.footer-menu{
+    list-style: none;
 }
